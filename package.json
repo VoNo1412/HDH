@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "node": "^17.7.2",
+    "node-windows": "^1.0.0-beta.7",
+    "nodemon": "^2.0.15"
+  },
+  "name": "btl-hdh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
